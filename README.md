@@ -95,11 +95,7 @@
 - Установленный и запущенный [Ollama](https://ollama.com/) с загруженными моделями.
 - Discord Bot Token (с включёнными функциями).
 
-### Шаги
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/yourname/B.T.-Binary-Titan-.git
-cd B.T.-Binary-Titan-
+
 
 
 
